@@ -3,6 +3,6 @@ This work investigates the feasibility of utilising the subject-predicate-object
 
 Publication:
 
-Learning Sequence Patterns in Knowledge Graph Triples to Predict Inconsistencies. Elbattah, M., Ryan, C. (2019, September). In Proceedings of , the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (KMIS).
+Learning Sequence Patterns in Knowledge Graph Triples to Predict Inconsistencies. Elbattah, M., Ryan, C. (2019, September). In Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (KMIS).
 
 https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=84946
